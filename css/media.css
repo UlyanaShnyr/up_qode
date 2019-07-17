@@ -1,0 +1,380 @@
+
+@media (min-width: 320px)and (max-width: 574px){
+   
+    .logo {       
+        padding-top: 0;
+        padding-left: 10px;
+    }
+
+    .navbar-toggler {
+       margin-top: -20px;
+    }
+
+    .creative_text {        
+        font-size: 35px;       
+    }
+
+    .baner_text {
+        font-size: 12px;        
+        margin-top: -20px;
+    }
+
+    .padding {
+        padding-bottom: 100px;
+    }
+
+    .products_img h2 {       
+        padding-top: 160px;
+    }
+
+    .carousel-item {
+        margin-top: -70px;
+    }
+
+    .card-cont {
+        height: 100px;
+    }
+
+    img.card-img-top {
+        width: 50px;
+    }
+
+    .container_card_icon {
+        font-size: 25px;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .container_card1, .container_card2  {
+        padding-top: 0;
+    }
+
+    .container_card p {
+        font-size: 8px;
+    }    
+
+    .col h3 {
+        padding-top: 0;
+        font-size: 8px;
+    }
+
+    .mobile_image {
+       margin-left: -50px;
+    }
+
+    #contactform {
+        height: 100%;
+        margin-top: -500px;
+        margin-bottom: 0;
+    }
+
+    input.fullname {
+        width: 100px;
+        height: 20px;
+        margin-left:-10px;        
+        font-size: 8px;
+    }
+
+    input#email {
+        width: 100px;
+        height: 20px;
+        margin-left:-10px;        
+        font-size: 8px;
+    }
+
+   .form_textarea {
+        width: 100px;       
+        margin-left:-10px;        
+        font-size: 8px;
+    }
+
+    .row.like_company {
+        width: 100%;
+        font-size: 6px;         
+    }
+
+    .form_btn button {
+        width: 100px !important;
+        margin-left: -10px !important;
+        height: 30px;
+        margin-top: -5px;
+    }
+
+    .form_address p {
+        margin-top: 90px;        
+        margin-left: 39px;
+        margin-top: 100px !important;        
+    }
+
+    .col.home_bloks {       
+        height: 110px;
+    }
+
+    #footer .col-10 {       
+        flex: 0 0 65.333333%;        
+    }
+
+    footer h2 {
+        font-size: 7px;
+        padding-left: 20px; 
+        margin-top: 10px;   
+    }
+
+    .footer_icons a {   
+        padding: 0;
+        margin-left: -10px;
+     } 
+
+     .navbar-light .navbar-toggler {
+        margin-top: -20px;
+        margin-left: 85%;
+    }
+} 
+
+@media (min-width: 576px) and (max-width: 767px) { 
+    .logo {       
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .navbar-toggler {
+       margin-top: -20px;
+    }
+
+     .creative_text {        
+        font-size: 35px;       
+    }
+
+    .baner_text {
+        font-size: 12px;        
+        margin-top: -20px;
+    }
+
+    #sliders_product .carousel-indicators {
+        padding-bottom: 100px;
+    }
+
+    .padding {
+        padding-bottom: 100px;
+    }
+
+    .mobile_image {
+        margin-left: -85px ;
+    }   
+
+    .products_img h2 {       
+        margin-top: 20px;
+    }
+
+    .row_products {
+        padding-top: 100px;
+    }  
+
+    .carousel-item {
+        margin-top: -70px;
+    } 
+
+    .card-cont {
+        height: 100px;
+    }
+
+    img.card-img-top {
+        width: 50px;
+    }
+
+    .container_card_icon {
+        font-size: 25px;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .container_card1, .container_card2 {
+        padding-top: 0;
+    }
+
+    .container_card p {
+        font-size: 8px;
+    }
+
+    .col h3 {
+        padding-top: 0;
+        font-size: 8px;
+    } 
+
+    #contactform {
+        height: 100%;
+        margin-top: -500px;
+        margin-bottom: 0;
+    }
+
+    .row.like_company {
+        width: 100%;
+        font-size: 6px;         
+    }
+
+    .form_btn button {
+        width: 60px;
+        margin-left: 10px;
+        height: 25px;
+    }
+
+    .form_address p {
+        margin-top: 90px;        
+        margin-left: 39px;
+        margin-top: 100px !important;        
+    }
+
+    .col.home_bloks {       
+        height: 110px;
+    }
+
+    #footer .col-10 {       
+        flex: 0 0 65.333333%;        
+    }
+
+    footer h2 {
+        font-size: 7px;
+        padding-left: 20px; 
+        margin-top: 10px;   
+    }
+
+    footer .container-fluid {
+        margin-top: -10px;        
+    }
+
+    .footer_icons a {   
+        padding: 0;
+        margin-left: -10px;
+     } 
+ } 
+
+@media (min-width: 768px) and (max-width: 991px) { 
+    .logo {       
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .navbar-toggler {
+       margin-top: -20px;
+    }
+
+     .creative_text {        
+        font-size: 35px;       
+    }
+
+    .baner_text {
+        font-size: 12px;        
+        margin-top: -20px;
+    }
+
+    #sliders_product .carousel-indicators {
+        padding-bottom: 100px;
+    }
+
+    .padding {
+        padding-bottom: 0;
+    }
+
+    .mobile_image {
+        margin-left: -85px ;
+    }
+
+    .products_img h2 {       
+        margin-top: -89px;
+    }
+
+    .row_products {
+        padding-top: 100px;
+    }
+
+    .carousel-item {
+        margin-top: -70px;
+    }
+
+    .card-cont {
+        height: 150px;
+    }
+
+    img.card-img-top {
+        width: 50px;
+    }
+
+    .container_card_icon {
+        font-size: 25px;
+        padding: 0;
+        padding-top: 10px;
+    }
+
+    .container_card1, .container_card2 {
+        padding-top: 0;
+    }
+
+    .container_card p {
+        font-size: 8px;
+    }
+
+    .col h3 {
+        padding-top: 0;
+        font-size: 8px;
+    } 
+
+    #contactform {
+        height: 349px;
+        margin-top: -350px;
+        margin-bottom: 0;
+    }
+
+    .row.like_company {
+        width: 100%;
+        font-size: 6px;         
+    }
+
+    .form_btn button {
+        width: 60px;
+        margin-left: 10px;
+        height: 25px;
+    }
+
+    .form_address p {
+        margin-top: 90px;        
+        margin-left: 39px;
+        margin-top: 100px !important;        
+    }
+
+    .col.home_bloks {       
+        height: 110px;
+    }
+
+    #footer .col-10 {       
+        flex: 0 0 65.333333%;        
+    }
+
+    footer h2 {
+        font-size: 7px;
+        padding-left: 20px; 
+        margin-top: 10px;   
+    }
+
+    footer .container-fluid {
+        margin-top: -10px;        
+    }
+
+    .footer_icons a {   
+        padding: 0;
+        margin-left: -10px;
+     }
+
+ }
+ 
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+    .form_btn button {
+        width: 100px ;
+        margin-left: 50px;
+        height: 30px;       
+    }
+    
+    #navbarResponsive{
+        margin-left: -100px;
+    }
+ }
