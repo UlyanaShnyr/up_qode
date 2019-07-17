@@ -21,14 +21,13 @@
 
     .padding {
         padding-bottom: 100px;
-    }
-
-    .products_img h2 {       
-        padding-top: 160px;
-    }
+    }    
 
     .carousel-item {
         margin-top: -70px;
+    }
+    .carousel-inner {        
+        margin-top: 100px;
     }
 
     .card-cont {
@@ -160,11 +159,7 @@
 
     .mobile_image {
         margin-left: -85px ;
-    }   
-
-    .products_img h2 {       
-        margin-top: 20px;
-    }
+    } 
 
     .row_products {
         padding-top: 100px;
@@ -278,10 +273,7 @@
     .mobile_image {
         margin-left: -85px ;
     }
-
-    .products_img h2 {       
-        margin-top: -89px;
-    }
+    
 
     .row_products {
         padding-top: 100px;

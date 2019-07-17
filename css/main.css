@@ -307,28 +307,33 @@ img.card-img-top {
 }
 
 .products_img img {    
-    height: 140px;
-    position : relative;  
+    height: 140px;     
     width:100%;  
 }
-.products_img h2 {  
-    position: absolute;   
-    left: 50%;
-    margin-left: -114px;
-    top: 1290px; 
+.products_img h2 {     
     text-align: center;     
     font-size: 28px;
+    padding-top: 30px;
 }
-
+.products_img_back_side{
+    max-width: 1280px;
+    min-width: 320px;
+    margin-left: auto ;
+    margin-right: auto;
+    position: absolute;
+   
+}
+.products_img_front_side{
+    position: relative;
+}
 .products {      
     height: 100%;
     margin-top: 28px;
 }
-
 .container_carousel_img {
     height: 300px;
 }
- 
+
 .card-cont {
     display: flex;   
 }
